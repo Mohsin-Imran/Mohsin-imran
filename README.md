@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mnmemon549@gmail.com**
 
-- 📄 Know about my experiences <a href="https://portfolio.techx.website/resume/1715321298.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://portfolio.techx.website/resume/1722239513.pdf" target="blank">Resume</a>
 <hr/>
 
 <!--h1 without bottom border-->
