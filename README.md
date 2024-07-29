@@ -5,19 +5,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently Working in <a href="https://autotel.pk/" target="blank">Autotelematics Private Limited.</a>
+- 🔭 I’m currently Working in <a href="https://bwtech.co/" target="blank">Brainwave Technologies</a>
 
-- 🌱 I’m currently Working on Linux Server Management.
+- 🌱 I’m currently Working on Technologies PHP Laravel Full Stack Development.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently Intership in <a href="https://alnafi.com/" target="blank">Al Nafi</a> For DevOps.
+- 💬 Ask me about **Web Development  Web Hosting & Programming**
 
-- 💬 Ask me about **Linux & Web Development & Web Hosting & DevOps & Automation & Programming**
+- 📫 How to reach me **mnmemon549@gmail.com**
 
-- 📫 How to reach me **umerakmalku@gmail.com**
-
-- 📄 Know about my experiences <a href="https://mumer.xyz/assets/resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://portfolio.techx.website/resume/1715321298.pdf" target="blank">Resume</a>
 <hr/>
 
 <!--h1 without bottom border-->
@@ -29,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,react,django,flask,wordpress,vscode,postgres,redis,mongodb,mysql,postman,aws,gcp,azure,linux,redhat,ubuntu,kali,mint,maven,nginx,py,bash,elasticsearch,docker,selenium,jenkins,terraform,grafana,prometheus,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,react" />
   </a>
 </p>
 
@@ -40,7 +38,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/umer-khan-%F0%9F%87%B5%F0%9F%87%B8-30864b27b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohsin-imran-5833a9243/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   
 </p>
 
