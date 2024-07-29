@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin M Imran</h1>
-<h3 align="center">Full Stack PHP Laravel & Frontend Developer&#127477;&#127472;</h3>
+<h3 align="center">Full Stack PHP Laravel & Frontend Developer</h3>
 <hr>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,react,php,laravel,database,phpmyadmin" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,javascript,jquery,react,php,laravel,mysql,nodejs" />
   </a>
 </p>
 
